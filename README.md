@@ -5,13 +5,13 @@
 **ICP_2_1_fullname**
 
 **Description:**
-This Python script defines two functions: `fullname` and `string_alternative`. The `fullname` function takes a first name (`fname`) and a last name (`lname`) as parameters, concatenates them with a space in between, and returns the full name. The `string_alternative` function takes a string (`funame`) as input and extracts the characters at even indices, creating a new string of alternate characters. The script then takes user input for first and last names, calls the functions, and prints the full name followed by the string of alternate characters.
+This Python script defines two functions: fullname and string_alternative. The fullname function takes a first name (fname) and a last name (lname) as parameters, concatenates them with a space in between, and returns the full name. The string_alternative function takes a string (funame) as input and extracts the characters at even indices, creating a new string of alternate characters. The script then takes user input for first and last names, calls the functions, and prints the full name followed by the string of alternate characters.
 
 **Usage:**
 1. The user is prompted to enter their first name.
 2. The user is prompted to enter their last name.
-3. The script calls the `fullname` function to concatenate the first and last names and prints the full name.
-4. The script calls the `string_alternative` function to extract alternate characters from the full name and prints the result.
+3. The script calls the fullname function to concatenate the first and last names and prints the full name.
+4. The script calls the string_alternative function to extract alternate characters from the full name and prints the result.
 
 **Example:**
 Enter your first name:
